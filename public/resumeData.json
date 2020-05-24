@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Frantz Felix",
+    "occupation": "Full Stack Developer",
+    "description": "I currently have an interest in React, web secuirty, game development and all things tech!",
+    "image": "profilepic.jpg",
+    "bio": "When I’m not at my computer I enjoy getting outdoors music festivals, hiking, backpacking, and camping are my go-tos! I also enjoy indoor bouldering, I have only been doing it for a year but have gotten rather good at it! If i'm not being active I’m hanging out with friends, 3D modeling, 3D printing, or playing video games! Thanks for taking the time to visit my page and read my bio. I hope you like what you see!",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Frantz.C.Felix@gmail.com",
+    "phone": "856-383-9440",
+    "address": {
+      "street": "Denny",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98122"
+    },
+    "website": "https://frantzcfelix.github.io/index.html",
+    "resumedownload": "https://frantzcfelix.github.io/Resume/Frantz_Felix_Resume-02-2020.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Froonce",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "http://googleplus.com/",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/frantz-felix/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/frantz58/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/FrantzCFelix",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Rutgers University",
+        "degree": "B.S. In Computer Science",
+        "graduated": "May 2017",
+        "description": "Also recived an animation minor!"
+      },
+      {
+        "school": "University of Washington",
+        "degree": "Coding Bootcamp Certificate",
+        "graduated": "May 2020",
+        "description": "Became a MERN stack capable developer!"
+      }
+    ],
+    "work": [
+      {
+        "company": "Trader Joe's",
+        "title": "Crew Member",
+        "years": "August 2019 - Present",
+        "description": "On top of everyday customer service and stocking duties in a fun enviorment, I also am the order writer for a section of the store."
+      },
+      {
+        "company": "CodeStreamStudios",
+        "title": "Programmer",
+        "years": "Jan 2019 - July 2019",
+        "description": "Made Vue Components and unit tests"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "55%"
+      },
+      {
+        "name": "Nodejs/Express",
+        "level": "48%"
+      },
+      {
+        "name": "CSS",
+        "level": "45%"
+      },
+      {
+        "name": "HTML5",
+        "level": "50%"
+      },
+      {
+        "name": "React",
+        "level": "45%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "RinqyDinqyArcade",
+        "category": "A site that is supposed to serve as an indie portal for other game lovers(Mvp)",
+        "image": "rinqydinky.png",
+        "url": "https://rinqydinky.herokuapp.com/"
+      },
+      {
+        "title": "Book-it-yourself",
+        "category": "Connecting artist and promoters(Mvp)",
+        "image": "book-it.png",
+        "url": "https://book-it-yourself.herokuapp.com/#home"
+      },
+      {
+        "title": "Eventifiy-your-map",
+        "category": "A website to help locate events around you(Mvp)",
+        "image": "eventify.png",
+        "url": "https://frantzcfelix.github.io/Eventify-your-map/"
+      },
+      {
+        "title": "Fitness Tracker",
+        "category": "A workout tracking application!(Mvp)",
+        "image": "fitness.png",
+        "url": "https://fitness-tracker-mongod.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
