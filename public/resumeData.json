@@ -4,14 +4,13 @@
     "occupation": "Full Stack Developer",
     "description": "I currently have an interest in React, web secuirty, game development and all things tech!",
     "image": "profilepic.jpg",
-    "bio": "When I’m not at my computer I enjoy getting outdoors music festivals, hiking, backpacking, and camping are my go-tos! I also enjoy indoor bouldering, I have only been doing it for a year but have gotten rather good at it! If i'm not being active I’m hanging out with friends, 3D modeling, 3D printing, or playing video games! Thanks for taking the time to visit my page and read my bio. I hope you like what you see!",
+    "bio": "I am a Front End Web Developer with an education background in Computer Science and Animation.  I recently earned a certificate in Full Stack Development from the University of Washington, where I developed skills in JavaScript, CSS, React.js, and responsive web design. An innovative problem solver passionate about developing apps, with a focus on mobile-first design and development. My degrees in Computer Science and Animation have given me a unique user focused approach to solving problems, where I focus on the astheitc working as smoothly as the back-end. With each project, I aim to understand how to best engage users for an impactful user experience. I applied agile development in a recent project where I worked in a team of 4 to develop a single-page MERN app that helps local artists/producers find new talent, seek it out and chat with one another. When I’m not designing or developing, I enjoy getting outdoors music festivals, hiking, backpacking, and camping are my go-tos! I also enjoy indoor bouldering, I have only been doing it for a year but have gotten rather good at it! If i'm not being active I’m hanging out with friends, 3D modeling, 3D printing, or playing video games! Reach out to me to say hi!.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Frantz.C.Felix@gmail.com",
     "phone": "856-383-9440",
     "address": {
-      "street": "Denny",
+      "street": "",
       "city": "Seattle",
-      "state": "WA",
       "zip": "98122"
     },
     "website": "https://frantzcfelix.github.io/index.html",
@@ -117,25 +116,37 @@
         "title": "RinqyDinqyArcade",
         "category": "A site that is supposed to serve as an indie portal for other game lovers(Mvp)",
         "image": "rinqydinky.png",
-        "url": "https://rinqydinky.herokuapp.com/"
+        "url": "https://rinqydinky.herokuapp.com/",
+        "github": "https://github.com/FrantzCFelix/RINQYDINK",
+        "description": "This is an app based on classic video game arcades from the 80s & early 90s. Kids used to come to play games, yes, but also to socialize and get human interaction. ",
+        "tech": "Phaser 3, Socket.io, Passport.Js, MYSQL"
       },
       {
         "title": "Book-it-yourself",
         "category": "Connecting artist and promoters(Mvp)",
         "image": "book-it.png",
-        "url": "https://book-it-yourself.herokuapp.com/#home"
+        "url": "https://book-it-yourself.herokuapp.com/#home",
+        "github": "https://github.com/FrantzCFelix/book-it-yourself",
+        "description": "Book-it-yourself is an app that connects artists and promoters across the globe. The inspiration for our project came from the 90's publication Book Your Own Fuc-in Life. This publication was instrumental in the 90's to help connect bands and promoters across the world.",
+        "tech": "MongoDB, Express, React, Node"
       },
       {
         "title": "Eventifiy-your-map",
         "category": "A website to help locate events around you(Mvp)",
         "image": "eventify.png",
-        "url": "https://frantzcfelix.github.io/Eventify-your-map/"
+        "url": "https://frantzcfelix.github.io/Eventify-your-map/",
+        "github": "https://github.com/FrantzCFelix/Eventify-your-map",
+        "description": "This website finds events for the curious user. The user searchs for an event/artist like music festivals, comedy or a local musican. They are then presented a map with the locations of the events.",
+        "tech": "Google Maps API, Ticketmaster API"
       },
       {
         "title": "Fitness Tracker",
         "category": "A workout tracking application!(Mvp)",
         "image": "fitness.png",
-        "url": "https://fitness-tracker-mongod.herokuapp.com/"
+        "url": "https://fitness-tracker-mongod.herokuapp.com/",
+        "github": "https://github.com/FrantzCFelix/fitness-tracker",
+        "description": "As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.",
+        "tech": "Node.js, Express, mongoosedb, mongoose"
       }
     ]
   },
