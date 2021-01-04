@@ -20,7 +20,7 @@ class Portfolio extends Component {
             </a>
           </div>
           <a href={projects.github} title={projects.title}>
-Github Link
+          {projects.title} - Github
           </a>
           <p>
             {projects.tech}
@@ -33,14 +33,22 @@ Github Link
     }
 
     return (
-      <section id="portfolio">
+      <section id="resume">
 
-      <div className="row">
+      
+      <div className="row skill">
 
+
+        
+
+      <div className="three columns header-col">
+            <h1><span>Projects</span></h1>
+         </div>
+         <div className="nine columns collapsed">
+
+            {/* <h1>Check Out Some of My Works.</h1> */}
+            </div>
          <div className="twelve columns collapsed">
-
-            <h1>Check Out Some of My Works.</h1>
-
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
             </div>

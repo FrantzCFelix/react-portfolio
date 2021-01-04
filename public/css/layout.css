@@ -82,6 +82,10 @@ header .banner-text hr {
    border-color: rgba(150, 150, 150, .1);
 }
 
+#endOfSkill{
+   margin: 0px;
+}
+
 /* header social links */
 header .social {
    margin: 24px 0;
@@ -237,8 +241,8 @@ ul#nav li.current a { color: #F06000; }
 
 #resume {
    background: #fff;
-   padding-top: 90px;
-   padding-bottom: 72px;
+   padding-top: 80px;
+   /* padding-bottom: 20px; */
    overflow: hidden;
 }
 
@@ -429,9 +433,21 @@ ul#nav li.current a { color: #F06000; }
    margin-bottom: 48px;
    color: #95A3A3;
 }
+#portfolio h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#portfolio
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper .columns { 
+   margin-bottom: 36px;
+  
+ }
+ #portfolio-wrapper{ 
+   margin-top: 50px;
+   
+ }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;

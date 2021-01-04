@@ -63,14 +63,16 @@ class Resume extends Component {
 
             <p>{skillmessage}
             </p>
+            <p>JavaScript (ES6) | React | jQuery | CSS | HTML | Bootstrap | Express | MySQL  MongoDB | Sequelize | Git | Heroku | Socket.io | PWAs | Google Map APIs</p>
 
-				<div className="bars">
+				{/* <div className="bars">
 				   <ul className="skills">
 					  {skills}
 					</ul>
-				</div>
+				</div> */}
 			</div>
       </div>
+      <hr id = "endOfSkill"></hr>
    </section>
     );
   }

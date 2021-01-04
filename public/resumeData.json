@@ -7,16 +7,17 @@
     "bio": "I am a Front End Web Developer with a B.S. in Computer Science and a Minor in Animation. I recently earned a certificate in Full Stack Development from the University of Washington where I developed skills in JavaScript, CSS, React.js, and responsive web design. I am an innovative problem solver that is passionate about developing apps, with a focus on mobile-first design and development.",
     "bioPartTwo": "My degrees in Computer Science and Animation have given me a unique user focused approach to solving problems, where I focus on the aesthetic working as smoothly as the back-end. With each project, I aim to understand how to best engage users for an impactful user experience. I applied agile development in a recent project where I worked in a team of 4 to develop a single-page MERN app that helps local artists/producers find new talent, seek it out, and chat with one another.",
     "bioPartThree": "When I’m not designing or developing, I enjoy hiking, backpacking, and camping. I also enjoy indoor bouldering - I have only been doing it for a year but have gotten rather good at it! If I'm not being active, I’m hanging out with friends, 3D modeling, 3D printing, or playing video games!",
-    "contactmessage": "You can reach me by filling out the form below",
+    "contactmessage": "You can reach me by filling out the form below:",
     "email": "Frantz.C.Felix@gmail.com",
     "phone": "856-383-9440",
     "address": {
+      "state": "WA",
       "street": "",
       "city": "Seattle",
       "zip": "98122"
     },
     "website": "https://frantzcfelix.github.io/index.html",
-    "resumedownload": "https://frantzcfelix.github.io/Resume/Frantz_Felix_Resume-11-17-20.pdf",
+    "resumedownload": "https://frantzcfelix.github.io/Resume/",
     "social": [
       {
         "name": "linkedin",
@@ -57,7 +58,7 @@
         "company": "Trader Joe's",
         "title": "Crew Member",
         "years": "August 2019 - Present",
-        "description": "On top of everyday customer service and stocking duties in a fun enviorment, I also am the order writer for a section of the store."
+        "description": "On top of everyday customer service and stocking duties, I also am the order writer for a section of the store."
       },
       {
         "company": "CodeStreamStudios",
@@ -101,7 +102,7 @@
         "image": "rinqydinky.png",
         "url": "https://rinqydinky.herokuapp.com/",
         "github": "https://github.com/FrantzCFelix/RINQYDINK",
-        "description": "This is an app based on classic video game arcades from the 80s & early 90s. Kids used to come to play games, yes, but also to socialize and get human interaction. ",
+        "description": "This is an app based on classic video game arcades from the 80s & early 90s. Users can play games and socialize with other users playing games on their own accounts.",
         "tech": "Phaser 3, Socket.io, Passport.Js, MYSQL"
       },
       {
@@ -110,7 +111,7 @@
         "image": "book-it.png",
         "url": "https://book-it-yourself.herokuapp.com/#home",
         "github": "https://github.com/FrantzCFelix/book-it-yourself",
-        "description": "Book-it-yourself is an app that connects artists and promoters across the globe. The inspiration for our project came from the 90's publication Book Your Own Fuc-in Life. This publication was instrumental in the 90's to help connect bands and promoters across the world.",
+        "description": "Book-it-yourself is an app that connects artists and promoters across the globe. The inspiration for our project came from the 90's publication about how band members booked shows pre-internet. This publication was instrumental in the 90's to help connect bands and promoters across the world.",
         "tech": "MongoDB, Express, React, Node"
       },
       {
@@ -119,7 +120,7 @@
         "image": "eventify.png",
         "url": "https://frantzcfelix.github.io/Eventify-your-map/",
         "github": "https://github.com/FrantzCFelix/Eventify-your-map",
-        "description": "This website finds events for the curious user. The user searchs for an event/artist like music festivals, comedy or a local musican. They are then presented a map with the locations of the events.",
+        "description": "This website finds events for the curious user. The user searches for an event/artist like music festivals, comedy or a local musician. They are then presented a map with the locations of the events.",
         "tech": "Google Maps API, Ticketmaster API"
       },
       {
@@ -128,7 +129,7 @@
         "image": "fitness.png",
         "url": "https://fitness-tracker-mongod.herokuapp.com/",
         "github": "https://github.com/FrantzCFelix/fitness-tracker",
-        "description": "As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.",
+        "description": "On this website the user can view, create, and track daily workouts. They can log multiple exercises in a workout on a given day. They can track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, the user can track their distance traveled.",
         "tech": "Node.js, Express, mongoosedb, mongoose"
       }
     ]
