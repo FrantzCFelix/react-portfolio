@@ -2,7 +2,7 @@
   "main": {
     "name": "Frantz Felix",
     "occupation": "Full Stack Developer",
-    "description": "I currently have an interest in React, web secuirty, game development and all things tech!",
+    "description": "I currently have an interest in React, web security, game development and all things tech.",
     "image": "profilepic.jpg",
     "bio": "I am a Front End Web Developer with a B.S. in Computer Science and a Minor in Animation. I recently earned a certificate in Full Stack Development from the University of Washington where I developed skills in JavaScript, CSS, React.js, and responsive web design. I am an innovative problem solver that is passionate about developing apps, with a focus on mobile-first design and development.",
     "bioPartTwo": "My degrees in Computer Science and Animation have given me a unique user focused approach to solving problems, where I focus on the aesthetic working as smoothly as the back-end. With each project, I aim to understand how to best engage users for an impactful user experience. I applied agile development in a recent project where I worked in a team of 4 to develop a single-page MERN app that helps local artists/producers find new talent, seek it out, and chat with one another.",
@@ -16,7 +16,7 @@
       "zip": "98122"
     },
     "website": "https://frantzcfelix.github.io/index.html",
-    "resumedownload": "https://frantzcfelix.github.io/Resume/Frantz_Felix_Resume-02-2020.pdf",
+    "resumedownload": "https://frantzcfelix.github.io/Resume/Frantz_Felix_Resume-11-17-20.pdf",
     "social": [
       {
         "name": "linkedin",
