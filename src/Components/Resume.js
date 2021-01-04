@@ -63,7 +63,7 @@ class Resume extends Component {
 
             <p>{skillmessage}
             </p>
-            <p>JavaScript (ES6) | React | jQuery | CSS | HTML | Bootstrap | Express | MySQL  MongoDB | Sequelize | Git | Heroku | Socket.io | PWAs | Google Map APIs</p>
+            <p>JavaScript (ES6) | React | jQuery | CSS | HTML | Bootstrap | Express | MySQL  MongoDB | Sequelize | Git | Heroku | Socket.io | PWAs | Google Map APIs | InVision Studio (comparable to Figma)</p>
 
 				{/* <div className="bars">
 				   <ul className="skills">
